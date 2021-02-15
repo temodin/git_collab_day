@@ -1,14 +1,9 @@
 public class Main {
+    static Balint balint = new Balint();
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
+
         System.out.println("Hello Dorka, csa Zoli");
-        printName();
-
+        balint.printName();
     }
-
-    public static void printName() {
-        System.out.println("Balintka");
-    }
-
-
 }
