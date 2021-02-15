@@ -3,7 +3,11 @@ public class Main {
 
     public static void main(String[] args) {
 
+        Dorka dorka = new Dorka();
+        Cheer cheer = new Cheer();
         System.out.println("Hello Dorka, csa Zoli");
         balint.printName("Gittes");
+        dorka.count();
+        cheer.cheer();
     }
 }
