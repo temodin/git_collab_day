@@ -1,5 +1,5 @@
 public class Dorka {
-    public void count(){
-        System.out.println("I was born in month 2 ");
+    public void count(int number){
+        System.out.println("Counting the countless " + number);
     }
 }
