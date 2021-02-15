@@ -10,7 +10,5 @@ public class Main {
         System.out.println("Balintka");
     }
 
-    public static void count(){
-        System.out.println("Our age is " + (35+33+29));
-    }
+
 }
