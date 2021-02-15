@@ -10,9 +10,7 @@ public class Main {
 
         dorka.count();
 
-
-
-        cheer.cheer("Szia Világ!");
+        cheer.cheer("Szia Világ!", "Szia Mindenki!");
 
     }
 }
