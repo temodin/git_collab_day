@@ -1,5 +1,6 @@
 public class Cheer {
-    public void cheer(){
-        System.out.println("Szia Világ!");
+
+    public void cheer(String wordToShout){
+        System.out.println(wordToShout);
     }
 }
