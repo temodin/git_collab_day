@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Hello Dorka, csa Zoli");
         balint.printName();
         dorka.count(5);
-        cheer.cheer();
+        cheer.cheer("Ducks");
     }
 }

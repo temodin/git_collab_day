@@ -1,7 +1,7 @@
 public class Cheer {
 
 
-    public void cheer(){
-        System.out.println("Kacsak");
+    public void cheer(String wordToShout){
+        System.out.println(wordToShout);
     }
 }
