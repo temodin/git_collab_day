@@ -6,4 +6,9 @@ public class Main {
         balint.printName();
     }
 
+
+    public static void count() {
+        System.out.println("Our age is " + (35 + 33 + 29));
+    }
+
 }
