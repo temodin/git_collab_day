@@ -6,13 +6,13 @@ public class Main {
         Dorka dorka = new Dorka();
         Cheer cheer = new Cheer();
         System.out.println("Hello Dorka, csa Zoli");
+
+
         balint.printName("hello ","vilagtalan");
 
-        dorka.count();
+        dorka.count("param1", "param2");
 
 
-
-        cheer.cheer("Szia Világ!");
-
+        cheer.cheer("Szia Világ!", "Szia Mindenki!");
     }
 }
