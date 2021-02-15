@@ -7,7 +7,7 @@ public class Main {
         Cheer cheer = new Cheer();
         System.out.println("Hello Dorka, csa Zoli");
         balint.printName("Gittes");
-        dorka.count();
+        dorka.count(5);
         cheer.cheer();
     }
 }
