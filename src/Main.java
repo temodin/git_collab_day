@@ -6,7 +6,7 @@ public class Main {
         Dorka dorka = new Dorka();
         Cheer cheer = new Cheer();
         System.out.println("Hello Dorka, csa Zoli");
-        balint.printName();
+        balint.printName("hello ","vilagtalan");
 
         dorka.count();
 
