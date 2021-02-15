@@ -3,7 +3,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello Dorka, csa Zoli");
-        balint.printName();
+        balint.printName("Gittes");
     }
 
 
