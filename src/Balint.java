@@ -1,5 +1,5 @@
 public class Balint {
-    public void printName(String name) {
-        System.out.println(name);
+    public void printName() {
+        System.out.println("Greetings!");
     }
 }
