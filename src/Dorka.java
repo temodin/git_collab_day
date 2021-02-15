@@ -1,5 +1,5 @@
 public class Dorka {
-    public void count(){
-        System.out.println("I was born in month 2 ");
+    public void count(String param1, String param2){
+        System.out.println("Param1: " + param1 + "; Param2: " + param2);
     }
 }
