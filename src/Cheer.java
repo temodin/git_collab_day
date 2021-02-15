@@ -1,6 +1,8 @@
 public class Cheer {
 
-    public void cheer(String wordToShout, String otherWordToShout){
-        System.out.println(wordToShout + " + " + otherWordToShout);
+
+    public void cheer(String wordToShout){
+        System.out.println("Cheer for the " + wordToShout);
+
     }
 }
