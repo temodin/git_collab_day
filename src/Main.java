@@ -10,7 +10,6 @@ public class Main {
 
         balint.printName("hello ","vilagtalan");
 
-        dorka.count("param1", "param2");
 
 
         cheer.cheer("Szia Világ!", "Szia Mindenki!");
